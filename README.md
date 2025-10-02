@@ -2,8 +2,8 @@
   <img src="images/github-header-banner.png" alt="github header banner" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  width="100%"/>
 </div>
 
 <!-- <div align="center">
@@ -11,33 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Fullstack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
   
 </div> -->
-
-<p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Aldayanday1&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Aldayanday1?label=Followers&style=for-the-badge&color=7C3AED" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Aldayanday1?label=Stars&style=for-the-badge&color=7C3AED" alt="stars" />
-</p>
-
-<br/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aldayanday1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 <h2 align="center" style="margin-top:50px">📊 GitHub Stats</h2>
 
@@ -63,6 +36,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,java,spring,dart,flutter,next,mysql,github,vscode&perline=25" />
 </p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aldayanday1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+</div>
 
 <br/>
 
