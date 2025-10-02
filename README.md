@@ -4,32 +4,25 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Crafting+Code+Seamlessly+while+exploring+.+.+.;Gaming+🎮+|+Coffee+☕+|+Music+🎵+;And+always+Creating+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=400&lines=Fullstack+Developer;Building+Web+and+Mobile+Apps;Always+Learning" alt="Typing SVG" />
 </p>
 
-
 <br/>
 
-<h2 align="center">🚀 GitHub Activity Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldayanday1&custom_title=Aldayanday1's%20GitHub%20Activity%20Graph&bg_color=2D333B&color=F5E6D3&line=7C3AED&point=F5E6D3&area_color=7C3AED&area=true&hide_border=true" alt="activity graph" width="100%"/>
-</div>
-
-<br/>
-
-<h2 align="center" style="margin-top:50px">📊 GitHub Stats</h2>
+<h2 align="center" style="margin-top:0px">📊 GitHub Stats</h2>
 
 <p align="center">
   <!-- Custom clean theme: dark grey bg (2D333B), cream text (F5E6D3), violet accents (7C3AED) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aldayanday1&show_icons=true&bg_color=2D333B&text_color=F5E6D3&title_color=F5E6D3&icon_color=7C3AED&border_color=444C56&ring_color=7C3AED" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldayanday1&layout=compact&langs_count=8&bg_color=2D333B&text_color=F5E6D3&title_color=F5E6D3&icon_color=7C3AED&border_color=444C56" alt="most used languages" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldayanday1&background=2D333B&border=444C56&stroke=444C56&ring=7C3AED&fire=7C3AED&currStreakNum=F5E6D3&sideNums=F5E6D3&currStreakLabel=F5E6D3&sideLabels=F5E6D3&dates=A8B5C2" alt="streak" height="165"/>
 </p>
 
-<p align="center">
-  <!-- Most Used Languages with matching clean theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldayanday1&layout=compact&bg_color=2D333B&text_color=F5E6D3&title_color=F5E6D3&border_color=444C56&langs_count=8" alt="most used languages" height="165"/>
-</p>
+<h2 align="center" style="margin-top:50px">🚀 GitHub Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldayanday1&custom_title=Aldayanday1's%20GitHub%20Activity%20Graph&bg_color=2D333B&color=F5E6D3&line=7C3AED&point=F5E6D3&area_color=7C3AED&area=true&hide_border=true" alt="activity graph" width="100%"/>
+</div>
 
 <br/>
 
