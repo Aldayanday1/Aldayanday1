@@ -2,6 +2,11 @@
 <img src="images/github-header-banner.png" alt="github header banner" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" width="100%"/>
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=400&lines=Building+Web+%26+Mobile+Apps;Always+Learning...;...Always+Creating+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<br/>
 
 <h2 align="center">🚀 GitHub Activity Graph</h2>
 
