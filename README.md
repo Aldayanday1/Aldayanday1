@@ -3,18 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" width="100%"/>
 </div>
 
-<!-- <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Fullstack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-  
-</div> -->
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<h2 align="center">� GitHub Activity Graph</h2>
+<h2 align="center">🚀 GitHub Activity Graph</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldayanday1&custom_title=Aldayanday1's%20GitHub%20Activity%20Graph&bg_color=2D333B&color=F5E6D3&line=7C3AED&point=F5E6D3&area_color=7C3AED&area=true&hide_border=true" alt="activity graph" width="100%"/>
@@ -130,7 +119,7 @@
 
 <br/>
 
-<h2 align="center">�📫 Connect with Me</h2>
+<h2 align="center"�📫 Connect with Me</h2>
 
 <div align="center">
   
