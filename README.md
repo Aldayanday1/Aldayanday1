@@ -51,7 +51,7 @@
 
 <br/>
 
-<h2 align="center">Projects Highlight</h2>
+<h2 align="center">Project Highlights</h2>
 
 <div align="center">
 
