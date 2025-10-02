@@ -16,40 +16,32 @@
 </p>
 
 <h2 align="center" style="margin-top:50px">🛠️ Tech Stack</h2>
-<div align="center">
-  <!-- Individual tech icons in a centered flex-wrap layout to ensure they appear as two centered rows -->
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;max-width:600px;margin:0 auto;">
-    <img src="https://skillicons.dev/icons?i=html" alt="html" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=css" alt="css" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=js" alt="js" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=github" alt="github" width="56" height="56" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="56" height="56" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,java,spring,flutter,dart,mysql,git,github,vscode&perline=5" />
+</p>
+
 
 <h2 align="center" style="margin-top:50px">📈 Contribution Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center" style="margin-top:50px">📈 Contribution Activity</h2>
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/7C3AED/Aldayanday1">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/4CAF50/Aldayanday1">
+    <img alt="Contribution Graph" src="https://ghchart.rshah.org/4CAF50/Aldayanday1" width="100%">
+  </picture>
+</div>
 
-<img src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg" alt="Snake animation" />
+<br/>
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg" width="100%">
+  </picture>
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
