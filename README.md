@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center" style="margin-top:50px">📊 GitHub Stats</h2>
+<!-- <h2 align="center" style="margin-top:50px">📊 GitHub Stats</h2> -->
 <p align="center">
   <!-- Custom clean theme: dark grey bg (2D333B), cream text (F5E6D3), violet accents (7C3AED) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aldayanday1&show_icons=true&bg_color=2D333B&text_color=F5E6D3&title_color=F5E6D3&icon_color=7C3AED&border_color=444C56&ring_color=7C3AED" alt="stats" height="165"/>

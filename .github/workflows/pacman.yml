@@ -1,11 +1,9 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -15,18 +13,41 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman Contribution Graph
+        uses: Abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Aldayanday1
+          
+      - name: Create dist directory and move files
+        run: |
+          mkdir -p dist
+          # The action generates files in root, move them to dist
+          if [ -f "pacman-contribution-graph.svg" ]; then
+            cp pacman-contribution-graph.svg dist/
+            echo "✓ Light theme file found and moved"
+          fi
+          if [ -f "pacman-contribution-graph-dark.svg" ]; then
+            cp pacman-contribution-graph-dark.svg dist/
+            echo "✓ Dark theme file found and moved"
+          fi
+          # If files don't exist, create fallback using ghchart
+          if [ ! -f "dist/pacman-contribution-graph.svg" ]; then
+            echo "⚠ Creating fallback light theme"
+            curl -o dist/pacman-contribution-graph.svg "https://ghchart.rshah.org/Aldayanday1"
+          fi
+          if [ ! -f "dist/pacman-contribution-graph-dark.svg" ]; then
+            echo "⚠ Creating fallback dark theme"
+            curl -o dist/pacman-contribution-graph-dark.svg "https://ghchart.rshah.org/7C3AED/Aldayanday1"
+          fi
+          ls -la dist/
 
-      - name: Push pacman-contribution-graph.svg to the output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
