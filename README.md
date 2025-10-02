@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="images/github-header-banner.png" alt="github header banner" width="100%" />
+<p align="center" style="margin: 0; padding: 0; line-height: 0;">
+  <img src="images/github-header-banner.png" alt="github header banner" width="100%" style="display: block; margin: 0; padding: 0;" />
 </p>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  width="100%"/>
+<div style="margin: 0; padding: 0; line-height: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" width="100%" style="display: block; margin: 0; padding: 0;" />
 </div>
 
 <!-- <div align="center">
@@ -44,7 +43,7 @@
 <br/>
 
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center" style="color:#9AA0A6">🏆 GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aldayanday1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
