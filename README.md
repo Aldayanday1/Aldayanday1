@@ -72,15 +72,19 @@
 
 <h2 align="center" style="margin-top:50px">📈 Contribution Activity</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/7C3AED/Aldayanday1">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/4CAF50/Aldayanday1">
+    <img alt="Contribution Graph" src="https://ghchart.rshah.org/4CAF50/Aldayanday1" width="100%">
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
 
 <div style="margin-top:50px">
