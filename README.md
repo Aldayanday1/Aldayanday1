@@ -2,8 +2,8 @@
   <img src="images/github-header-banner.png" alt="github header banner" />
 </p>
 
+<h2 align="center" style="margin-top:50px">📊 GitHub Stats</h2>
 
-<!-- <h2 align="center" style="margin-top:50px">📊 GitHub Stats</h2> -->
 <p align="center">
   <!-- Custom clean theme: dark grey bg (2D333B), cream text (F5E6D3), violet accents (7C3AED) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aldayanday1&show_icons=true&bg_color=2D333B&text_color=F5E6D3&title_color=F5E6D3&icon_color=7C3AED&border_color=444C56&ring_color=7C3AED" alt="stats" height="165"/>
@@ -37,24 +37,25 @@
   </div>
 </div>
 
+<h2 align="center" style="margin-top:50px">📈 Contribution Activity</h2>
 
-<h2 align="center" style="margin-top:50px">📂 Featured Projects</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/pacman-contribution-graph.svg">
+</picture>
 
-<h3 align="center">🥛 Boyong Milk</h3>
-<p align="center">
-  <strong>Fullstack Web-based Milk Product Management System</strong><br/>
-  Laravel 11 | Bootstrap 5 | Tailwind CSS | MySQL<br/>
-  <a href="https://github.com/Aldayanday1/boyong-milk">🔗 View Repository</a>
-</p>
+###
 
+<img src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg" alt="Snake animation" />
 
-<h3 align="center" style="margin-top:50px">📱 BalitaCare Plus</h3>
-<p align="center">
-  <strong>Mobile Health Management System</strong><br/>
-  Flutter | Spring Boot | Analytics | Excel Export<br/>
-  <a href="https://github.com/Aldayanday1/balitacare-plus">🔗 View Repository</a>
-</p>
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
 
 <h2 align="center" style="margin-top:50px">📫 Connect with Me</h2>
 
@@ -69,25 +70,3 @@
     <img src="https://img.shields.io/badge/Instagram-youw4nabe-pink?logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </p>
-
-<h2 align="center" style="margin-top:50px">📈 Contribution Activity</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/7C3AED/Aldayanday1">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/4CAF50/Aldayanday1">
-    <img alt="Contribution Graph" src="https://ghchart.rshah.org/4CAF50/Aldayanday1" width="100%">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
-
-<div style="margin-top:50px">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
