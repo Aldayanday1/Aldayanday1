@@ -2,6 +2,10 @@
   <img src="images/github-header-banner.png" alt="github header banner" />
 </p>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
 <h2 align="center" style="margin-top:50px">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -23,18 +27,6 @@
 
 <h2 align="center" style="margin-top:50px">📈 Contribution Activity</h2>
 
-<h2 align="center" style="margin-top:50px">📈 Contribution Activity</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/7C3AED/Aldayanday1">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/4CAF50/Aldayanday1">
-    <img alt="Contribution Graph" src="https://ghchart.rshah.org/4CAF50/Aldayanday1" width="100%">
-  </picture>
-</div>
-
-<br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake-dark.svg">
@@ -43,13 +35,7 @@
   </picture>
 </div>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
-
-<h2 align="center" style="margin-top:50px">📫 Connect with Me</h2>
+<h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:onlymarfa69@gmail.com">
