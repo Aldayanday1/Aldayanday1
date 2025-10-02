@@ -51,7 +51,7 @@
 
 <br/>
 
-<h2 align="center"> Featured Projects</h2>
+<h2 align="center">Projects Highlight</h2>
 
 <div align="center">
 
@@ -59,32 +59,32 @@
 <tr>
 <td width="50%">
 
-###  Boyong Milk
+### 🌐 Boyong Milk
 
-<a href="https://github.com/Aldayanday1/boyong-milk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aldayanday1&repo=boyong-milk&theme=radical&bg_color=2D333B&title_color=7C3AED&icon_color=7C3AED&text_color=F5E6D3&border_color=444C56" />
+<a href="https://github.com/Aldayanday1/boyong_milk">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aldayanday1&repo=boyong_milk&theme=radical&bg_color=2D333B&title_color=7C3AED&icon_color=7C3AED&text_color=F5E6D3&border_color=444C56" />
 </a>
 
 **Fullstack Web-based Milk Product Management System**
 
 `Laravel 11` `Bootstrap 5` `Tailwind CSS` `MySQL`
 
-[🔗 View Repository](https://github.com/Aldayanday1/boyong-milk)
+[🔗 View Repository](https://github.com/Aldayanday1/boyong_milk)
 
 </td>
 <td width="50%">
 
 ### 📱 BalitaCare Plus
 
-<a href="https://github.com/Aldayanday1/balitacare-plus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aldayanday1&repo=balitacare-plus&theme=radical&bg_color=2D333B&title_color=7C3AED&icon_color=7C3AED&text_color=F5E6D3&border_color=444C56" />
+<a href="https://github.com/Aldayanday1/balitacare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aldayanday1&repo=balitacare&theme=radical&bg_color=2D333B&title_color=7C3AED&icon_color=7C3AED&text_color=F5E6D3&border_color=444C56" />
 </a>
 
 **Mobile Health Management System**
 
-`Flutter` `Spring Boot` `Analytics` `Excel Export`
+`Flutter` `SQLite` `Analytics` `Excel Export`
 
-[🔗 View Repository](https://github.com/Aldayanday1/balitacare-plus)
+[🔗 View Repository](https://github.com/Aldayanday1/balitacare)
 
 </td>
 </tr>
