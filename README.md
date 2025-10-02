@@ -21,7 +21,7 @@
 
 <h2 align="center" style="margin-top:50px">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,java,spring,flutter,dart,mysql,git,github,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,java,spring,flutter,dart,mysql,git,github,vscode&perline=25" />
 </p>
 
 
