@@ -43,10 +43,10 @@
 <br/>
 
 
-<h2 align="center" style="color:#9AA0A6">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aldayanday1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aldayanday1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&text_color=2D333B&title_color=2D333B" alt="trophies" />
 </div>
 
 <br/>
@@ -143,29 +143,5 @@
   <a href="https://www.instagram.com/youw4nabe">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/Aldayanday1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Aldayanday1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ### 💬 Let's Connect and Build Something Amazing Together! 🚀
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
-  
-</div>
-
-<div align="center">
-  
-  **Thank you for visiting! ⭐ Feel free to star the repositories you like!**
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
   
 </div>
