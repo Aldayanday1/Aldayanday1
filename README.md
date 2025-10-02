@@ -5,14 +5,6 @@
 
 <br/>
 
-<h2 align="center" style="margin-top:50px"> GitHub Activity Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldayanday1&custom_title=Aldayanday1's%20GitHub%20Activity%20Graph&bg_color=2D333B&color=F5E6D3&line=7C3AED&point=F5E6D3&area_color=7C3AED&area=true&hide_border=true" alt="activity graph" width="100%"/>
-</div>
-
-<br/>
-
 <h2 align="center" style="margin-top:0px"> GitHub Stats</h2>
 <p align="center">
   <!-- Custom clean theme: dark grey bg (2D333B), cream text (F5E6D3), violet accents (7C3AED) -->
@@ -36,6 +28,14 @@
 
 <br/>
 
+<h2 align="center" style="margin-top:50px"> GitHub Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldayanday1&custom_title=Aldayanday1's%20GitHub%20Activity%20Graph&bg_color=2D333B&color=F5E6D3&line=7C3AED&point=F5E6D3&area_color=7C3AED&area=true&hide_border=true" alt="activity graph" width="100%"/>
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -48,8 +48,6 @@
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -111,9 +109,6 @@
 </div>
 
 <br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
