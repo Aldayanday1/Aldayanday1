@@ -5,21 +5,6 @@
 
 <br/>
 
-<h2 align="center" style="margin-top:0px"> GitHub Stats</h2>
-<p align="center">
-  <!-- Custom clean theme: dark grey bg (2D333B), cream text (F5E6D3), violet accents (7C3AED) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aldayanday1&show_icons=true&bg_color=2D333B&text_color=F5E6D3&title_color=F5E6D3&icon_color=7C3AED&border_color=444C56&ring_color=7C3AED" alt="stats" height="165" style="margin-right:12px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldayanday1&background=2D333B&border=444C56&stroke=444C56&ring=7C3AED&fire=7C3AED&currStreakNum=F5E6D3&sideNums=F5E6D3&currStreakLabel=F5E6D3&sideLabels=F5E6D3&dates=A8B5C2" alt="streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldayanday1&layout=compact&langs_count=8&bg_color=2D333B&text_color=F5E6D3&title_color=F5E6D3&icon_color=7C3AED&border_color=444C56" alt="most used languages" height="165"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <h2 align="center"> Tech Stack</h2>
 
 <p align="center">
@@ -32,64 +17,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldayanday1&custom_title=Aldayanday1's%20GitHub%20Activity%20Graph&bg_color=2D333B&color=F5E6D3&line=7C3AED&point=F5E6D3&area_color=7C3AED&area=true&hide_border=true" alt="activity graph" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-
-<h2 align="center"> GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aldayanday1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&text_color=2D333B&title_color=2D333B" alt="trophies" />
-</div>
-
-<br/>
-
-<br/>
-
-<h2 align="center">Project Highlights</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Boyong Milk
-
-<a href="https://github.com/Aldayanday1/boyong_milk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aldayanday1&repo=boyong_milk&theme=radical&bg_color=2D333B&title_color=7C3AED&icon_color=7C3AED&text_color=F5E6D3&border_color=444C56" />
-</a>
-
-**Fullstack Web-based Milk Product Management System**
-
-`Laravel 11` `Bootstrap 5` `Tailwind CSS` `MySQL`
-
-[🔗 View Repository](https://github.com/Aldayanday1/boyong_milk)
-
-</td>
-<td width="50%">
-
-### 📱 BalitaCare Plus
-
-<a href="https://github.com/Aldayanday1/balitacare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aldayanday1&repo=balitacare&theme=radical&bg_color=2D333B&title_color=7C3AED&icon_color=7C3AED&text_color=F5E6D3&border_color=444C56" />
-</a>
-
-**Mobile Health Management System**
-
-`Flutter` `SQLite` `Analytics` `Excel Export`
-
-[🔗 View Repository](https://github.com/Aldayanday1/balitacare)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <br/>
