@@ -21,13 +21,13 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <br/>
 
-<h2 align="center" style="margin-top:50px"> Contribution Activity</h2>
+<!-- <h2 align="center" style="margin-top:50px"> Contribution Activity</h2> -->
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldayanday1/Aldayanday1/output/snake.svg">
@@ -35,7 +35,7 @@
   </picture>
 </div>
 
-<br/>
+<br/> -->
 
 <br/>
 
@@ -58,3 +58,5 @@
   </a>
   
 </div>
+
+<br/>
