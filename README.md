@@ -13,11 +13,11 @@
 
 <br/>
 
-<h2 align="center" style="margin-top:50px"> GitHub Activity Graph</h2>
+<!-- <h2 align="center" style="margin-top:50px"> GitHub Activity Graph</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aldayanday1&custom_title=Aldayanday1's%20GitHub%20Activity%20Graph&bg_color=2D333B&color=F5E6D3&line=7C3AED&point=F5E6D3&area_color=7C3AED&area=true&hide_border=true" alt="activity graph" width="100%"/>
-</div>
+</div> -->
 
 <br/>
 
