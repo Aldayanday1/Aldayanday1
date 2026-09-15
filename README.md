@@ -39,11 +39,9 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Crafting+Code+Seamlessly+while+exploring;Gaming+|+Coffee+|+Music+;And+always+Creating+Magic!" alt="Typing SVG" />
-</p>
-
-
+</p> -->
 
 <h2 align="center"� Connect with Me</h2>
 
